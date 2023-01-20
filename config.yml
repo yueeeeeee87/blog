@@ -1,6 +1,6 @@
 baseURL: ""
 languageCode: en-us
-title: Yueh Huan
+title: Yueh-Huan
 theme: PaperMod
  # 主题名字，和themes文件夹下的一致
 
@@ -37,8 +37,8 @@ languages:
       weight: 1
       profileMode:
         enabled: true
-        title: Yueh-Huan
-        subtitle: "MSBA @ UCSD"
+        title: Yueh-Huan Ho
+        subtitle: "MSBA @ UCSD  \nData Scientist Intern @ Rocket Central"
         imageUrl: "1629806540326.jpeg" #图片放在static/img/Q.gif
         imageTitle: 
         imageWidth: 225
@@ -110,7 +110,7 @@ params:
         - name: github
           url: "https://github.com/yueeeeeee87"
         - name: email
-          url: "y6ho@ucsd.edu"
+          url: "mailto:deb@y6ho@ucsd.edu"
 
     # editPost:
     #     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
