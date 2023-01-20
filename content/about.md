@@ -25,7 +25,7 @@ cover:
 
 <img align="left" src="temp.jpeg" style="width: 250px" class="img_floats" />
 <br />
-&nbsp; &nbsp; &nbsp; Not ready yet :) <br/> <br/>
+&nbsp; &nbsp; &nbsp; Hi there, this part is not ready yet :) <br/> <br/>
 &nbsp; &nbsp; &nbsp;  <br/>
 &nbsp; &nbsp; &nbsp;  <br/>
 &nbsp; &nbsp; &nbsp;  <br/> <br/>
@@ -41,3 +41,5 @@ cover:
 <br/>
 
 [Résumé](Yuehhuan_resume.pdf) 
+
+
