@@ -110,7 +110,7 @@ params:
         - name: github
           url: "https://github.com/yueeeeeee87"
         - name: email
-          url: "y6ho@ucsd.edu"
+          url: "mailto:y6ho@ucsd.edu"
 
     # editPost:
     #     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
