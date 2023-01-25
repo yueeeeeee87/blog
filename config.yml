@@ -1,6 +1,6 @@
 baseURL: ""
 languageCode: en-us
-title: Yueh Huan
+title: Yueh-Huan
 theme: PaperMod
  # 主题名字，和themes文件夹下的一致
 
@@ -37,15 +37,9 @@ languages:
       weight: 1
       profileMode:
         enabled: true
-<<<<<<< HEAD
-        title: Yueh Huan
-        subtitle: "MSBA @ UCSD"
-        imageUrl: "self_image.jpeg" #图片放在static/img/Q.gif
-=======
-        title: Yueh-Huan
-        subtitle: "MSBA @ UCSD"
+        title: Yueh-Huan Ho
+        subtitle: "MSBA @ UCSD  \nData Scientist Intern @ Rocket Central"
         imageUrl: "1629806540326.jpeg" #图片放在static/img/Q.gif
->>>>>>> 04c0eff (first commit)
         imageTitle: 
         imageWidth: 225
         imageHeight: 225
@@ -55,11 +49,7 @@ languages:
           - name: Projects
             url: posts
           - name: CV
-<<<<<<< HEAD
-            url: about/Wenjie_Fan.pdf
-=======
             url: about/Yuehhuan_resume.pdf
->>>>>>> 04c0eff (first commit)
       menu:
         main:
           - identifier: home
@@ -74,13 +64,6 @@ languages:
             name: Projects
             url: posts
             weight: 10
-<<<<<<< HEAD
-          - identifier: photos
-            name: Photographs
-            url: photos
-            weight: 20
-=======
->>>>>>> 04c0eff (first commit)
           - identifier: contact
             name: Contact
             url: contact
@@ -96,11 +79,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     # description: "这是一个纯粹的博客......"
-<<<<<<< HEAD
-    author: Wenjie
-=======
     author: Yueh-Huan
->>>>>>> 04c0eff (first commit)
     # author: ["Me", "You"] # multiple authors
     defaultTheme: auto  # defaultTheme: light or  dark 
     disableThemeToggle: false
@@ -125,23 +104,13 @@ params:
     
     socialIcons:
         - name: linkedin
-<<<<<<< HEAD
-          url: "https://github.com/xyming108"
-        - name: facebook
-          url: "https://www.facebook.com/profile.php?id=100027782410997"
-        - name: WeChat
-          url: "img/wechat.png"
-        - name: email
-          url: "wenjie.fan@keble.ox.ac.uk"
-=======
           url: "https://www.linkedin.com/in/y6ho/"
         - name: facebook
           url: "https://www.facebook.com/profile.php?id=100000280841885"
         - name: github
           url: "https://github.com/yueeeeeee87"
         - name: email
-          url: "y6ho@ucsd.edu"
->>>>>>> 04c0eff (first commit)
+          url: "mailto:y6ho@ucsd.edu"
 
     # editPost:
     #     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
