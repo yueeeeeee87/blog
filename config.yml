@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 baseURL: ""
 languageCode: en-us
 title: Yueh-Huan
@@ -199,7 +198,6 @@ services:
         disableInlineCSS: true
     twitter:
         disableInlineCSS: true
-=======
 baseURL: ""
 languageCode: en-us
 title: Yueh-Huan
@@ -400,4 +398,3 @@ services:
         disableInlineCSS: true
     twitter:
         disableInlineCSS: true
->>>>>>> e1ac82d0125cbccc0a991a6acd3df70c12392624
