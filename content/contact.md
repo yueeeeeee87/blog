@@ -2,7 +2,7 @@
 title: "Contact"
 layout: contact
 hidemeta: true
-description: "Any questions?  \nPlease don't hesitate to send me an email through the following form!"
+description: "Any questions?  Please don't hesitate to send me an email through the following form!"
 weight:
 slug: ""
 draft: false # 是否为草稿
