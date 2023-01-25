@@ -38,7 +38,7 @@ languages:
       profileMode:
         enabled: true
         title: Yueh-Huan
-        subtitle: "MSBA @ UCSD"
+        subtitle: "MSBA @ UCSD  \nData Scientist Intern @ Rocket Central"
         imageUrl: "1629806540326.jpeg" #图片放在static/img/Q.gif
         imageTitle: 
         imageWidth: 225
