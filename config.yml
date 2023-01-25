@@ -58,15 +58,15 @@ languages:
             weight: 1
           - identifier: about
             name: About
-            url: about
+            url: /about
             weight: 2
           - identifier: posts
             name: Projects
-            url: posts
+            url: /posts
             weight: 10
           - identifier: contact
             name: Contact
-            url: contact
+            url: /contact
             weight: 100
 
 
