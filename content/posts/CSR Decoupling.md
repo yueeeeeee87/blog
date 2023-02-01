@@ -1,5 +1,5 @@
 ---
-title: "CSR Decoupling"
+title: "The Effect of CSR Decoupling on Corporations' Financial Metrics"
 date: 2023-1-24T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
