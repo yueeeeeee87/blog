@@ -44,6 +44,8 @@ To figure out whether the dataset has time series characteristic, two cross-vali
 In this project, RandomForest is the main model to predict and analyze the loan status.  
 *(The Dataset for model training includes 916567 rows and 10 columns from 2007 to 2017.)*
 
+[Project PDF](Assignment2.pdf)
+
 <br/><br/>
 Data can be found in my 
 [GitHub Repository](https://github.com/yueeeeeee87/Loan_Status_Analysis)
@@ -54,26 +56,26 @@ Data can be found in my
 <br/><br/>
 
 ### Explanatory Variables
-* Annual_Inc -> Annual income  
-* Emp_Length -> Employment length  
-* Dti ->  The debt-to-income ratio of the borrower  
-* Delinq_2yrs -> The number of times the borrower had been 30+ days past due on a payment in the past 2 years  
-* Term -> Borrowing term  
-* Grade -> History credit grading  
-* Inq_Last_6mths -> The borrower’s number of inquiries by creditors in the last 6 months  
-* Purpose -> Purpose for borrowing  
+* `Annual_Inc` -> Annual income  
+* `Emp_Length` -> Employment length  
+* `Dti` ->  The debt-to-income ratio of the borrower  
+* `Delinq_2yrs` -> The number of times the borrower had been 30+ days past due on a payment in the past 2 years  
+* `Term` -> Borrowing term  
+* `Grade` -> History credit grading  
+* `Inq_Last_6mths` -> The borrower’s number of inquiries by creditors in the last 6 months  
+* `Purpose` -> Purpose for borrowing  
 
 <br/><br/>
 ___
 >## Feature Engineering
-### loan_stat  
-Fully_Paid -> 0  
-Defult, Charged-Off -> 1  
-### Grade  
-A, B, C, D, E, F, D -> 1, 2, 3, 4, 5, 6, 7  
-### Purpose  
-Debt_Consolidation -> 1  
-Other -> 0 
+### `loan_stat`  
+* Fully_Paid -> 0  
+* Defult, Charged-Off` -> 1  
+### `Grade`  
+* A, B, C, D, E, F, D -> 1, 2, 3, 4, 5, 6, 7  
+### `Purpose`  
+* Debt_Consolidation -> 1  
+* Other -> 0 
 <br/><br/>
 
 ```python
