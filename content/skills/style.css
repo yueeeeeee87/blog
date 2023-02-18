@@ -1,0 +1,108 @@
+*
+.skills{
+    width: 500px;
+    margin: 60px auto;
+    color: white;
+}
+.skills li{
+    margin: 20px 0;
+}
+.bar{
+    background: #353b48;
+    display: block;
+    height: 10px;
+    width: 40%; 
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 2px;
+    overflow: hidden;
+    box-shadow: 0 0 5px #0c7de7b3;
+}
+.bar span{
+    height: 10px;
+    float: left;
+    background: #2187e7;
+}
+.Python{
+    width: 90%;
+    animation: Python 2s;
+}
+.SQL{
+    width: 90%;
+    animation: SQL 2s;
+}
+.R{
+    width: 60%;
+    animation: R 2s;
+}
+.Tableau{
+    width: 70%;
+    animation: Tableau 2s;
+}
+.Spark{
+    width: 60%;
+    animation: Spark 2s;
+}
+.AWS{
+    width: 60%;
+    animation: AWS 2s;
+}
+.SAS{
+    width: 40%;
+    animation: SAS 2s;
+}
+@keyframes Python {
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 90%;
+    }
+}
+@keyframes SQL {
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 90%;
+    }
+}
+@keyframes R {
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 60%;
+    }
+}
+@keyframes Tableau {
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 70%;
+    }
+}
+@keyframes Spark {
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 60%;
+    }
+}
+@keyframes AWS {
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 60%;
+    }
+}
+@keyframes SAS {
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 40%;
+    }
+}
