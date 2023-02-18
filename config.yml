@@ -48,8 +48,11 @@ languages:
             url: about
           - name: Projects
             url: posts
+          - name: Skills
+            url: skills
           - name: CV
             url: about/Yuehhuan_resume.pdf
+          
       menu:
         main:
           - identifier: home
@@ -60,6 +63,10 @@ languages:
             name: About
             url: /about
             weight: 2
+          - identifier: Skills
+            name: Skills
+            url: /skills
+            weight: 3
           - identifier: posts
             name: Projects
             url: /posts
@@ -68,6 +75,7 @@ languages:
             name: Contact
             url: /contact
             weight: 100
+          
 
 
 outputs:
