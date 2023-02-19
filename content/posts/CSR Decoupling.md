@@ -4,7 +4,6 @@ date: 2023-1-24T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["CSR", "Feature Engineering", 'Finance']
-author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
@@ -35,9 +34,17 @@ editPost:
     Text: "test" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-
-Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet Not yet 
-
+## Data Sources
+The sample used in this study is composed of listed and OTC companies in Taiwan. The data sources include: 
+1. **Company performance indicator**s and **operating profiles** of related companies are obtained from the Taiwan Economic Journal (TEJ) database. 
+<br/><br/> 
+2. **The national CSR scores** are obtained from the Sustainable Development Report, published from 2017 to 2019, which rates the SDG scores of UN member countries each year. The higher the score, the better the country's implementation of SDGs. 
+<br/><br/> 
+3. **Company CSR scores** are obtained from Refinitiv ESG score, which contains the SDG implementation scores of each company from 2017 to 2019. A score of 0 indicates that the company did not disclose its SDG performance, while a score above 0 indicates the level of the company's SDG implementation. The higher the score, the higher the level of implementation.\
+<br/><br/> 
+Finally, based on the company name and year, the above data are integrated for subsequent empirical analysis in this study
+<br/><br/> 
+<br/><br/> 
 [**Project's Flowchart**]![Scenario 1: Across columns](/flow.jpeg) <br/>
 <br/> 
 ___

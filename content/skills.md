@@ -42,6 +42,7 @@ ML models that I'm familiar with
 1. MLP
 2. Latent Factor
 3. Word embedding (Word2Vec, GloVe)
+4. K-mean, PCA
 
 
 <!-- Created By CodingNepal -->
