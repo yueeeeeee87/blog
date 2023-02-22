@@ -9,7 +9,7 @@ author: "Yueh-Huan, Ho"
 showToc: true
 TocOpen: false
 draft: false
-hidemeta: false
+hidemeta: true
 comments: false
 description: ""
 canonicalURL: "https://canonical.url/to/page"
