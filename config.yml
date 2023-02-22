@@ -37,7 +37,7 @@ languages:
       weight: 1
       profileMode:
         enabled: true
-        title: Yueh-Huan
+        title: Yueh-Huan (Kevin) Ho
         subtitle: "MSBA @ UCSD  \nData Scientist Intern @ Rocket Central"
         imageUrl: "1629806540326.jpeg" #图片放在static/img/Q.gif
         imageTitle: 

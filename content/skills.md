@@ -1,5 +1,5 @@
 ---
-title: "Skills 👨‍💻"
+title: "Skills"
 layout: Skills
 date: 2021-11-06T14:57:28+08:00
 hidemeta: true
@@ -24,7 +24,7 @@ cover:
 I have extensive experience in using **Python** for data analysis and building data pipelines, covering the entire spectrum from exploratory data analysis and feature engineering to machine learning model development.\
  Over the past four years, I have acquired proficiency in a wide range of tools and libraries, including Pandas, Scikit-learn, SQLAlchemy, and Tensorflow.
 
-Additionally, I am well-versed in several data warehousing and cloud computing techniques, including **SQL, AWS (SageMaker, EC2, S3, EMR), Hadoop, and Spark**. Furthermore, I am proficient in programming languages such as R and SAS for statistical analysis.
+Additionally, I am well-versed in several data warehousing and cloud computing techniques, including **SQL, AWS (SageMaker, EC2, S3, EMR), Hadoop, Spark and Snowflake**. Furthermore, I am proficient in programming languages such as R and SAS for statistical analysis.
 
 ---
 
