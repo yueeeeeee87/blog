@@ -8,12 +8,12 @@ tags: ["CSR", "Feature Engineering", 'Finance']
 showToc: true
 TocOpen: false
 draft: false
-hidemeta: false
+hidemeta: true
 comments: false
 description: ""
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
-disableShare: false
+disableShare: true
 disableHLJS: false
 hideSummary: false
 searchHidden: true
