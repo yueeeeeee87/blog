@@ -100,7 +100,7 @@ cover:
 I have extensive experience in using **Python** for data analysis and building data pipelines, covering the entire spectrum from exploratory data analysis and feature engineering to machine learning model development.\
  Over the past four years, I have acquired proficiency in a wide range of tools and libraries, including Pandas, Scikit-learn, SQLAlchemy, and Tensorflow.
 
-Additionally, I am well-versed in several data warehousing and cloud computing techniques, including **SQL, AWS (SageMaker, EC2, S3, EMR), Hadoop, Spark and Snowflake**. Furthermore, I am an AWS certified machine learning specialist, focusing on SageMaker, ERM and ML pipeline. 
+Additionally, I am well-versed in several data warehousing and cloud computing techniques, including **SQL, AWS (SageMaker, EC2, S3, EMR), Hadoop, Spark and Snowflake**. Furthermore, I am an AWS certified machine learning specialist, focusing on SageMaker, EMR and ML pipeline. 
 
 <div style="text-align: center;">
   <img src="/skills/aws.png" alt="" width="150" height="150" style="display: block; margin: auto;">
