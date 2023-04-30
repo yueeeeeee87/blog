@@ -106,6 +106,10 @@ Additionally, I am well-versed in several data warehousing and cloud computing t
   <img src="/skills/aws.png" alt="" width="150" height="150" style="display: block; margin: auto;">
 </div>
 
+
+**<center>[AWS Badge](https://www.credly.com/badges/1d9c76ec-a1aa-462d-b7bc-2071081e8df1/linked_in_profile)</center>**
+
+
 ---
 
 
