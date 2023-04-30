@@ -44,7 +44,6 @@ To figure out whether the dataset has time series characteristic, two cross-vali
 In this project, RandomForest is the main model to predict and analyze the loan status.  
 *(The Dataset for model training includes 916567 rows and 10 columns from 2007 to 2017.)*
 
-[Project PDF](Assignment2.pdf)
 
 <br/><br/>
 Data can be found in my 

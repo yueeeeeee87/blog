@@ -73,10 +73,10 @@ html,body{
   width: 90%;
 }
 .bar .progress-line.r span{
-  width: 80%;
+  width: 60%;
 }
 .bar .progress-line.aws span{
-  width: 60%;
+  width: 70%;
 }
 .bar .progress-line.spark span{
   width: 70%;
@@ -123,10 +123,10 @@ html,body{
   content: "90%";
 }
 .progress-line.r span::after{
-  content: "80%";
+  content: "60%";
 }
 .progress-line.aws span::after{
-  content: "60%";
+  content: "70%";
 }
 .progress-line.spark span::after{
   content: "70%";

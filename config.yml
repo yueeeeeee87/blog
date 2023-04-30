@@ -38,8 +38,8 @@ languages:
       profileMode:
         enabled: true
         title: Yueh-Huan (Kevin) Ho
-        subtitle: "MSBA @ UCSD  \nData Scientist Intern @ Rocket Central"
-        imageUrl: "1629806540326.jpeg" #图片放在static/img/Q.gif
+        subtitle: "MSBA @ UCSD '23  \nData Scientist Intern @ Rocket Central"
+        imageUrl: "cartoon.JPG" #图片放在static/img/Q.gif
         imageTitle: 
         imageWidth: 225
         imageHeight: 225
@@ -118,7 +118,7 @@ params:
         - name: github
           url: "https://github.com/yueeeeeee87"
         - name: email
-          url: "mailto:y6ho@ucsd.edu"
+          url: "mailto:yueeeeeee87@gmail.com"
         - name: leetcode
           url: 'https://leetcode.com/y6ho/'
 
@@ -136,11 +136,11 @@ params:
     #         SiteVerificationTag: "XYZabc"
 
     assets:
-        favicon: "img/Q.gif"
-        favicon16x16: "img/Q.gif"
-        favicon32x32: "img/Q.gif"
-        apple_touch_icon: "Q.gif"
-        safari_pinned_tab: "Q.gif"
+        favicon: "q.jpg"
+        favicon16x16: "q.jpg"
+        favicon32x32: "q.jpg"
+        apple_touch_icon: "q.jpg"
+        safari_pinned_tab: "q.jpg"
 
     # cover:
     #     hidden: true # hide everywhere but not in structured data
