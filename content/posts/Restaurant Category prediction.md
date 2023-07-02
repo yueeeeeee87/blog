@@ -212,7 +212,7 @@ From the following image, We can see that the overall accuracy on both testing a
 ![Scenario 1: Across columns](/restaurant/ensemble.png)
 
 
-For more details about the code this research project, please refer to my [GitHub Repository](https://github.com/yueeeeeee87/Restaurant_Type_Prediction)
+For more details about the code of the project, please refer to my [GitHub Repository](https://github.com/yueeeeeee87/Restaurant_Type_Prediction)
 
 
 

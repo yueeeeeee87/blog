@@ -25,7 +25,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "/recom/rec.jpg" # image path/url
+    image: "/recom/rrrrrec.jpg" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -61,7 +61,9 @@ In our baseline model, we first implemented the latent factor model and assigned
 unique beta for each `user_id` and `item_id` that appear in the training set. We also apply 
 a regularizer containing two lambdas.
 <br/><br/>
-<img src=/recom/baseline.jpg alt= “” width="600" height="150">
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src=/recom/baseline.jpg alt= “” width="600" height="150">
+</div>
 <br/><br/>
 To get more information on the user and item interaction, we believe that the difference between a particular user's age 
 and the item's average might be a strong factor that affects the user's preference and therefore the rating. We first calculate the 
@@ -69,7 +71,9 @@ average buying age for each item and the difference in age for each observation.
 their ages in their reviews. To solve this problem, the global average age in training data was used to replace those missing age 
 values.
 <br/><br/>
-<img src=/recom/features.jpg alt= “” width="650" height="200">(**Features used in the model training process**)
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src=/recom/features.jpg alt= “” width="600" height="150">
+</div>
 
 ### Select/Design Models
 To optimize the baseline model, we first apply **Adam** as the model optimizer and set the **learning rate at 0.05**. In the training step, 
@@ -88,20 +92,26 @@ The other reason might be the fact that the regression model is prone to overfit
 the regression afterward might also be problematic. However, by implementing this model, we know that the age_diff is 
 influencing the expected rating negatively. This finding indicates that users are more likely to buy items that have a similar 
 average age to their ages.
-<img src=/recom/model_b.jpg alt= “” width="650" height="200">
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src=/recom/model_b.jpg alt= “” width="600" height="150">
+</div>
 <br/><br/>
 ### Model C
 We create our second model by refining model (c). To solve the problem of training coefficient after we finished the latent factor 
 model. We add one trainable variable δi inthe baseline model. The δi is the coefficient of age_dif for each item and we train the δi 
 with the variables in the baseline model altogether. To solve the overfitting problem on δi, we also apply λ3 for the regularizer. 
 In the training process, we try to minimize the following equation:
-<img src=/recom/model_c.jpg alt= “” width="650" height="200">
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src=/recom/model_c.jpg alt= “” width="600" height="150">
+</div>
 This model has an MSE of around **1.875**, which is **5% better** than the baseline model. 
 In this model, we use more users' information besides user_id and item_id. This implementation solves the problem of a 
 high percentage of unseen user_id in thevalidation set. In the future model design and experiment, it's worth trying to apply 
 more custom features to the model training process. 
 ## Result and Conclusion
-<img src=/recom/result.jpg alt= “” width="750" height="150">
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src=/recom/result.jpg alt= “” width="600" height="150">
+</div>
 Model (d) has the lowest MSE performance compared with others. We conclude that the 
 main reason is that model (d) takes the user feature and the interaction with the corresponding item into consideration. This 
 kind of feature allows the model to get more information to predict the unseen user/item 

@@ -65,7 +65,7 @@ tfidf = TfidfVectorizer(strip_accents=None,
                         sublinear_tf=True)
 ```
 
-**<center>Model Loss History</center>**![Scenario 1: Across columns](/news_headline/loss_history.png)
+**<center>Loss History</center>**![Scenario 1: Across columns](/news_headline/loss_history.png)
 **<center>Accuracy History</center>**![Scenario 1: Across columns](/news_headline/acc_history.png)
 
 ## Project Detail

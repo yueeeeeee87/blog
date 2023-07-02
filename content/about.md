@@ -24,8 +24,10 @@ cover:
 <br />
 
 <img align="left" src="temp.jpeg" style="width: 250px" class="img_floats" />
+
 <br />
-&nbsp; &nbsp; &nbsp; Hi there, this part is not ready yet :) <br/> <br/>
+<p>&nbsp;&nbsp;I actually have no idea how to introduce myself 🤯 </p>
+<p>&nbsp;&nbsp;Anyway, have some fun here! </p>
 &nbsp; &nbsp; &nbsp;  <br/>
 &nbsp; &nbsp; &nbsp;  <br/>
 &nbsp; &nbsp; &nbsp;  <br/> <br/>
@@ -34,10 +36,14 @@ cover:
 &nbsp; &nbsp; &nbsp;  <br/>
 &nbsp; &nbsp; &nbsp;  <br/>
 &nbsp; &nbsp; &nbsp;  <br/>
+
 &nbsp; &nbsp; &nbsp;  <br/>
+<-- Merino Sheep I bought from New Zealand in 2012
 &nbsp; &nbsp; &nbsp;  <br/>
+
 &nbsp; &nbsp; &nbsp;  <br/>
 &nbsp; &nbsp; &nbsp; <br/><br/>
+
 <br/>
 
 [Résumé](Yuehhuan_resume.pdf) 
