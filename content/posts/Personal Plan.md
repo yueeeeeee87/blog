@@ -72,7 +72,7 @@ Networking is always the tool I want to develop first. I was an introverted pers
 
 
 <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
-<label for="vehicle1">  Start at least two new conversations per week with colleagues/friends </label><br>
+<label for="vehicle1"> Start at least two new conversations per week with colleagues/friends </label><br>
 <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
 <label for="vehicle2"> Connect with at least 10 new contacts on LinkedIn each quarter</label><br>
 <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
@@ -137,11 +137,11 @@ Cultivate relationships with people who might be influential in the organization
 
 
 <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
-<label for="vehicle1">  Successfully build and lead at least one coalition per year to achieve specific project or organizational goals </label><br>
+<label for="vehicle1"> Successfully build and lead at least one coalition per year to achieve specific project or organizational goals </label><br>
 <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
-<label for="vehicle2"> egularly integrate situation awareness into coalition-building strategies in at least 80% of projects over the 5-year period</label><br>
+<label for="vehicle2"> Regularly integrate situation awareness into coalition-building strategies in at least 80% of projects over the 5-year period</label><br>
 <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
-<label for="vehicle3"> Initiate and nurture relationships with at least 3 influential individuals within the organization each year.</label><br>
+<label for="vehicle3"> Initiate and nurture relationships with at least 3 influential individuals within the organization each year</label><br>
 
 
 ---
@@ -163,7 +163,7 @@ Team building is a skill that I have developed a lot recently. I always place gr
 
 
 <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
-<label for="vehicle1"> ractice active listening in team meetings, ensuring that I actively seek and consider input from all team members at least twice a week </label><br>
+<label for="vehicle1"> Practice active listening in team meetings, ensuring that I actively seek and consider input from all team members at least twice a week </label><br>
 <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
 <label for="vehicle2"> Actively encourage and welcome diverse perspectives within the team, ensuring that all voices are heard at least once a week</label><br>
 <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
