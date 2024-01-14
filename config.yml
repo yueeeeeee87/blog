@@ -17,7 +17,7 @@ buildExpired: false
 #googleAnalytics: UA-123-45 # 谷歌统计
 # Copyright: Wenjie Fan
 
-paginate: 5    # 每页显示的文章数
+paginate: 10    # 每页显示的文章数
 
 minify:
     disableXML: true
@@ -70,11 +70,16 @@ languages:
           - identifier: posts
             name: Projects
             url: /posts
-            weight: 10
+            weight: 4
+          - identifier: Gellary
+            name: Gellary
+            url: /gellary
+            weight: 5
           - identifier: contact
             name: Contact
             url: /contact
-            weight: 100
+            weight: 6
+          
           
 
 
