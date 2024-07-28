@@ -91,9 +91,6 @@ editPost:
 
 
 
-| ![Image 4](/gellary/detroit/with_ppl.jpeg) |
-|:-----------------------:|
-| *Intern Sqqquad*   |
 
 
 
