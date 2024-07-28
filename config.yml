@@ -38,7 +38,7 @@ languages:
       profileMode:
         enabled: true
         title: Yueh-Huan (Kevin) Ho
-        subtitle: "MSBA @ UCSD '23  \nData Scientist Intern @ Rocket Central"
+        subtitle: "MSBA @ UCSD '23  \n Prev Data Scientist @ Rocket Mortgage"
         imageUrl: "cartoon.JPG" #图片放在static/img/Q.gif
         imageTitle: 
         imageWidth: 225
