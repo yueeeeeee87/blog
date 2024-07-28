@@ -1,7 +1,7 @@
 ---
-title: "Detroit"
-# weight: 1
-# aliases: ["/first"]
+title: "Detroit Memories"
+weight: 1
+aliases: ["/first"]
 showToc: true
 TocOpen: false
 draft: false
@@ -21,7 +21,7 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: true
 cover:
-    image: /gellary/with_ppl.JPG # image path/url
+    image: /gellary/cover.jpg # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -91,10 +91,13 @@ editPost:
 
 
 
-
-
-
-|![Image 2](/gellary/with_ppl.JPG)|
+| ![Image 4](/gellary/detroit/with_ppl.jpeg) |
 |:-----------------------:|
-| *Intern Squad 😎*   |
+| *Intern Sqqquad*   |
+
+
+
+
+
+{{< youtube 2H9grt7N3Rs >}}
 
